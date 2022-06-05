@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif?cid=ecf05e47r3gj4fkx25wvljb7mldsy3detoesemw86hb04q8d&rid=giphy.gif&ct=g"/>
+  <img src="https://media2.giphy.com/media/jj1xut6ZsokKI/giphy.gif"/>
 </div>
 
 # Welcome to my Repository! I'm Hokky Aryasta 👋
