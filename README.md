@@ -1,7 +1,7 @@
-# Welcome to my Repository! I'm Hokky Aryasta 👋
+# Hello! I'm Hokky 👋
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/FeVg8ViEczcxG/giphy.gif" width="100%" height="280px"/>
+  <img src="https://media2.giphy.com/media/FeVg8ViEczcxG/giphy.gif" height="280px"/>
 </div>
 
 ## I'm a Student
