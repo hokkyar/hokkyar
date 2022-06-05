@@ -1,6 +1,6 @@
 # Hello! I'm Hokky 👋
 
-<div align="center">
+<div>
   <img src="https://media2.giphy.com/media/FeVg8ViEczcxG/giphy.gif" height="280px"/>
 </div>
 
