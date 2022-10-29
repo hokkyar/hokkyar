@@ -1,7 +1,7 @@
 # Hello! I'm Hokky 👋
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" height="190px" width="100%"/>
+  <img src="https://media0.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" height="190px" width="100%"/>
 </div>
 
 ## I'm a Student
