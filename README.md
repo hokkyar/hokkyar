@@ -6,7 +6,7 @@
 
 ## I'm a Student
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Golang
 - 🥅 Goals: Software Engineer
 - ⚡ Hobby: I love to code and playing some games
 
