@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Javascript
 - 🥅 Goals: Software Engineer
-- ⚡ Hobby: I love to code and playing mobile legends
+- ⚡ Hobby: I love to code and playing some games
 
 <img alt="hokkyar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hokkyar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
