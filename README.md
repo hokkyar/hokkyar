@@ -1,16 +1,23 @@
-# Hi! Welcome 👋
+<!-- # Cheers 👋 -->
 
 <!-- <div align="center">
   <img src="https://media0.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" height="190px" width="100%"/>
-</div> -->
+</div> 
+-->
 
-## I'm a Student
+<!-- ## I'm a Student -->
 
+## Programmer (All Role)
+
+<!--
 - 🌱 I’m currently learning Javascript & Golang
 - 🥅 Goals: Software Engineer
 - ⚡ Hobby: I love to code and playing some games
+-->
 
+<!--
 <img alt="hokkyar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hokkyar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+-->
 
 ### Connect with me:
 
