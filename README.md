@@ -7,7 +7,7 @@
 
 <!-- ## I'm a Student -->
 
-## Programmer (All Role)
+## Programmer | Web3 Rookie
 
 <!--
 - 🌱 I’m currently learning Javascript & Golang
